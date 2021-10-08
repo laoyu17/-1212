@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Laoyu's lol world Pages
 
-You can use the [editor on GitHub](https://github.com/laoyu17/-1212/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the lol   wu hu qi fei!!!!![Let's LOL !!!](https://lol.qq.com/act/a20210927act/)
+
+
+to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
